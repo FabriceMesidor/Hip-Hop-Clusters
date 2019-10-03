@@ -7,3 +7,12 @@ Rap's germination is sometimes attributed to the righteous street poetry of the 
 # GENRES
 Rap subgenres and styles [-]
 [-]Alternative RapBritish RapFrench RapGerman RapJazz-RapLeft-Field Hip-HopPolitical RapTurntablismUnderground Rap[-]Hip-Hop / UrbanDirty RapEast Coast RapGolden AgeHardcore RapMidwest RapOld-School RapWest Coast Rap[-]Pop-RapBass MusicContemporary RapCountry RapDirty SouthG-FunkGangsta RapHorror RapParty RapSouthern Rap[-]Reggaeton / Latin RapLatin RapReggaeton
+
+# Questions
+Some pertinent questions:
+
+What words rap artist mentions most often?
+How has the genre’s vocabulary changed over time? How was the music evolved?
+Of all the artists, whose language is most diverse? Whose is most repetitive? Whose with the best vocabulary?
+Whose artist is more versatile?
+what are the different clusters in hip hop?
