@@ -106,5 +106,8 @@ venv.bak/
 # config file
 credentials.py
 
-# ignore json file (the lyrics)
+# ignore json files (the lyrics)
 *.json
+
+#ignore large files
+find . -size +100MB | cat >> .gitignore
