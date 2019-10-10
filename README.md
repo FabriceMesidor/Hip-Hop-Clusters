@@ -22,6 +22,7 @@ Questions guiding my research:
 5. What are the different clusters in Hip Hop? / Can we find different clusters in Hip Hop?
 
 # MY DATA
+A total of xxx Songs from 19xx to 2018 collected from 300 artists. Info re songs from 
 1. A list of artists initialy downloaded from wikipedia (1394)
 2. Ranker.com provided a cleaner set of artists - hence, I used it (814) - I wasn't able to grab correct unique for both.
 3. Genius.com
