@@ -112,3 +112,4 @@ credentials.py
 #ignore large files
 find . -size +100MB | cat >> .gitignore
 tracks_df.pkl
+object_spotify.pkl
