@@ -109,10 +109,11 @@ credentials.py
 # ignore json files (the lyrics)
 *.json
 
-#ignore large files
+#ignore large files / adding any pkl
 find . -size +100MB | cat >> .gitignore
 tracks_df.pkl
 object_spotify.pkl
 object1_spotify.pkl
 features_spotify.pkl
 full_data.pkl #full database
+*.pkl
