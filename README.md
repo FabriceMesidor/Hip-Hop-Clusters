@@ -18,12 +18,6 @@ Questions guiding my research:
 55k+ Songs from 1979 to 2019 collected from 300 artists. I proceed by getting a list of rappers (814) from ranker.com then, collect the lyrics on Genuis.
 After downloading songs features on SPotify - I kept only the ones with both lyrics and tracks audio features.
 
-# EDA
-
-
-
-
-
 # Topic Modeling
 
 
