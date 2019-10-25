@@ -10,7 +10,7 @@ Since 1979, rap spread from its New York epicenter throughout the remainder of t
 # QUESTIONS
 Questions guiding my research:
 
-1. What are the different subject discussed in Hip Hop?
+1. What are the different subjects discussed in Hip Hop?
 2. How has the artist vocabulary and music changed over time?
 3. Are there different clusters in Hip Hop or all music similar?
 
@@ -19,7 +19,7 @@ Questions guiding my research:
 After downloading songs features on SPotify - I kept only the ones with both lyrics and tracks audio features.
 
 # Topic Modeling
-
+After cleaning and vectorizing the lyrics, I appplied Latent Dirichent Allocation (LDA) to get topics
 
 
 # Clustering
