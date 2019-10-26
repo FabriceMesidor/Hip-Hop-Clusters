@@ -13,6 +13,7 @@ Questions guiding my research:
 1. What are the different subjects discussed in Hip Hop?
 2. How has the artist vocabulary and music changed over time?
 3. Are there different clusters in Hip Hop or all music similar?
+4. How did hip-hop musics change over time?
 
 # MY DATA
 55k+ Songs from 1979 to 2019 collected from 300 artists. I proceed by getting a list of rappers (814) from ranker.com then, collect the lyrics on Genuis.
