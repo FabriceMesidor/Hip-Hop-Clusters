@@ -10,16 +10,17 @@ Since 1979, rap spread from its New York epicenter throughout the remainder of t
 # QUESTIONS
 Questions guiding my research:
 
-1. What are the different subject discussed in Hip Hop?
+1. What are the different subjects discussed in Hip Hop?
 2. How has the artist vocabulary and music changed over time?
 3. Are there different clusters in Hip Hop or all music similar?
+4. How did hip-hop musics change over time?
 
 # MY DATA
 55k+ Songs from 1979 to 2019 collected from 300 artists. I proceed by getting a list of rappers (814) from ranker.com then, collect the lyrics on Genuis.
 After downloading songs features on SPotify - I kept only the ones with both lyrics and tracks audio features.
 
 # Topic Modeling
-
+After cleaning and vectorizing the lyrics, I appplied Latent Dirichent Allocation (LDA) to get topics
 
 
 # Clustering
