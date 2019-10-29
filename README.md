@@ -17,10 +17,31 @@ Questions guiding my research:
 
 # MY DATA
 55k+ Songs from 1979 to 2019 collected from 300 artists. I proceed by getting a list of rappers (814) from ranker.com then, collect the lyrics on Genuis.
-After downloading songs features on SPotify - I kept only the ones with both lyrics and tracks audio features.
+After downloading songs features on Spotify - I kept only the ones with both lyrics and tracks audio features. Inital processing on my lyrics shows the words below as most used and revealed the need for a topic modeling.
+
+![word cloud](Pics-Graphs/wordcloud_all_lyrics.png)
 
 # Topic Modeling
-After cleaning and vectorizing the lyrics, I appplied Latent Dirichent Allocation (LDA) to get topics
+After cleaning and vectorizing the lyrics, I appplied Latent Dirichent Allocation (LDA) to get topics.
 
+#### A distribution of words and unique words using for all songs
+![wordsvsunique](Pics-Graphs/wordsvsuniq.png)
+
+#### Results of LDA and Distribution of topics accross all songs
+![from slide](Pics-Graphs/freq_words_topics.png)
 
 # Clustering
+![Cluster Slide](Pics-Graphs/Clustering.png)
+
+# Findings
+Overall, the research showed an increase of music production over the years. However, the songs are getting shoerter and contained few words. 
+Additional search showed that it is a result of the streaming industry changing the music production.
+
+![slide_evolution_hip_hop](Pics-Graphs/Evolution_Hip_Hop.png)
+
+- Establish 4 topics on 27k+ lyrics using Latent Dirichlet Allocation
+- 7 Clusters found using K-Means
+- Evolution of the music industry over the years
+
+
+
