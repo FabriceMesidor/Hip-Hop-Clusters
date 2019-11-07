@@ -34,7 +34,7 @@ After cleaning and vectorizing the lyrics, I appplied Latent Dirichent Allocatio
 ![Cluster Slide](Pics-Graphs/Clustering.png)
 
 # Findings
-Overall, the research showed an increase of music production over the years. However, the songs are getting shoerter and contained few words. 
+Overall, the research showed an increase of music production over the years. However, the songs are getting shorter and contained few words. 
 Additional search showed that it is a result of the streaming industry changing the music production.
 
 ![slide_evolution_hip_hop](Pics-Graphs/Evolution_Hip_Hop.png)
