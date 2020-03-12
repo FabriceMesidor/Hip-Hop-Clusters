@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 # INTRO
 
-Since 1979, rap spread from its New York epicenter throughout the remainder of the U.S. (with each region taking on its own specific flavor) and then to countless countries. Even though Rap's core components are beats and rhymes, rap lyircs got their own touch as well. Over the year, lot of people try to create genres of music of schools of rappers. Most of them very subjective and arguable. Using machine learning techniques and Natural Language Processing tools, I want to confront popular opinion and find topics & categories of Hip Hop songs.
+Since 1979, rap spread from its New York epicenter throughout the remainder of the U.S. (with each region taking on its own specific flavor) and then to countless countries. Even though Rap's core components are beats and rhymes, rap lyrics got their own touch as well. Over the year, lot of people try to create genres of music of schools of rappers. Most of them very subjective and arguable. Using machine learning techniques and Natural Language Processing tools, I want to confront popular opinion and find topics & categories of Hip Hop songs.
 
 
 # QUESTIONS
